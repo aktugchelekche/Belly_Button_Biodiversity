@@ -1,0 +1,18 @@
+    .jumbotron {
+        background-image: url("https://cdn.trendhunterstatic.com/thumbs/belly-button-bacteria.jpeg?auto=webp") ;
+        background-size: cover;
+
+    }
+
+    .jumbotron h1 {
+        
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        text-align: center;
+        
+    }
+    .jumbotron p {
+        color: white;
+        text-align: center;
+        
+    }
